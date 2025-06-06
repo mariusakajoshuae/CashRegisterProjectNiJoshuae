@@ -1,0 +1,27 @@
+User: marius
+- hotdog x2
+-----
+User: mariusss
+- Burger x2 @ ₱50.0 = ₱100.0
+- Fries x1 @ ₱30.0 = ₱30.0
+- Soda x1 @ ₱20.0 = ₱20.0
+- Burger x2 @ ₱50.0 = ₱100.0
+Total: ₱250.0
+-----
+
+========== TRANSACTION ==========
+Date & Time: 2025-06-06 23:46:52
+Cashier: mariusss
+egg | Quantity: 1 | Price: 12.0
+hotdogg | Quantity: 2 | Price: 2.0
+ham | Quantity: 4 | Price: 2.0
+cheese | Quantity: 3 | Price: 1.0
+Total: 27.0
+===============================
+
+========== TRANSACTION ==========
+Date & Time: 2025-06-06 23:47:08
+Cashier: mariusss
+ham | Quantity: 2 | Price: 2.0
+Total: 4.0
+===============================
